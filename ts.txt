@@ -1,0 +1,7 @@
+tsc --init
+
+let name: string = 'John';
+let age: number = 25;
+let active: boolean = true;
+export {};
+console.log(name)
